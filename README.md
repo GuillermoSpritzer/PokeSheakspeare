@@ -24,12 +24,11 @@ Application will run on port 5001:8080
 You can test it going on https://localhost:5001/pokemon/ditto
 
 
-To run on a container in docker
+## To run on a container in docker
 
 System requirements:
-Docker --- installation ( https://www.docker.com/get-started )
 
-           $ brew install docker
+Docker --- installation ( https://www.docker.com/get-started ) or for mac $ brew install docker
 
 Once installed download the repository and open the folder on console
 
