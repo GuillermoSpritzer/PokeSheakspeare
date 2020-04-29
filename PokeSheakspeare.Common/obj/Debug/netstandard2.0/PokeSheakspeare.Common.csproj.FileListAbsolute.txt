@@ -1,0 +1,17 @@
+D:/Users/gspritzer2/source/repos/PokeSheakspeare/PokeSheakspeare.Common/bin/Debug/netstandard2.0/PokeSheakspeare.Common.deps.json
+D:/Users/gspritzer2/source/repos/PokeSheakspeare/PokeSheakspeare.Common/bin/Debug/netstandard2.0/PokeSheakspeare.Common.dll
+D:/Users/gspritzer2/source/repos/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.AssemblyInfoInputs.cache
+D:/Users/gspritzer2/source/repos/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.AssemblyInfo.cs
+D:/Users/gspritzer2/source/repos/PokeSheakspeare/PokeSheakspeare.Common/bin/Debug/netstandard2.0/PokeSheakspeare.Common.pdb
+D:/Users/gspritzer2/source/repos/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.dll
+D:/Users/gspritzer2/source/repos/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.pdb
+D:/Users/gspritzer2/source/repos/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.csprojAssemblyReference.cache
+/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/bin/Debug/netstandard2.0/PokeSheakspeare.Common.deps.json
+/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/bin/Debug/netstandard2.0/PokeSheakspeare.Common.dll
+/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/bin/Debug/netstandard2.0/PokeSheakspeare.Common.pdb
+/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.csprojAssemblyReference.cache
+/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.csproj.CoreCompileInputs.cache
+/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.AssemblyInfoInputs.cache
+/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.AssemblyInfo.cs
+/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.dll
+/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/obj/Debug/netstandard2.0/PokeSheakspeare.Common.pdb

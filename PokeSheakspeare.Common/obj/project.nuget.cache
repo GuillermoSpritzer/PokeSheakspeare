@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zeqQUz9wHjUAdUsjQVAANvng7DeYkJWuF5hA8Gi07xzIw1IX6eo55rNf7pBRGy94MPpjMkFS9Pp+xhXK+eF3mw==",
+  "success": true,
+  "projectFilePath": "/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.Common/PokeSheakspeare.Common.csproj",
+  "expectedPackageFiles": [
+    "/Users/guillermospritzer/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/guillermospritzer/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/guillermospritzer/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/guillermospritzer/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

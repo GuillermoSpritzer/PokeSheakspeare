@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JxS3C7mscdpXv91U3pt4YSf9YIdz5BrQUtj6lLkUNLbWUGSVwCb0jY4klBwO/kZgakj0vngUKelChoUgJ7MY3w==",
+  "success": true,
+  "projectFilePath": "/Users/guillermospritzer/Desktop/PokeSheakspeare/PokeSheakspeare.ApiTests/PokeSheakspeare.ApiTests.csproj",
+  "expectedPackageFiles": [
+    "/Users/guillermospritzer/.nuget/packages/mstest.testframework/2.1.1/mstest.testframework.2.1.1.nupkg.sha512",
+    "/Users/guillermospritzer/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
