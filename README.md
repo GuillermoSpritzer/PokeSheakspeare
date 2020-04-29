@@ -37,10 +37,10 @@ $ cd ../PokeSheakspeare
 
 $ docker build -t pokesheakspeare .
 
-$ docker run --publish 5001:8080 --detach --name pokesheakspeareContainer1 pokesheakspeare
+$ docker run --publish 5000:80 --detach --name pokesheakspeareContainer1 pokesheakspeare
 ```
 
-Application will run on port 5001:8080
+Application will run on port 5000:80
 
-you can test it going on https://localhost:5001/pokemon/ditto
+you can test it going on http://localhost:5000/pokemon/ditto
 
