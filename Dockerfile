@@ -22,4 +22,4 @@ RUN dotnet publish "PokeSheakspeare.csproj" -c Release -o /app/publish
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "PokeSheakspeare.dll","--urls","http://0.0.0.0:80","http://0.0.0.0:8080"]
+ENTRYPOINT ["dotnet", "PokeSheakspeare.dll","--urls","http://0.0.0.0:80","https://0.0.0.0:8080"]
