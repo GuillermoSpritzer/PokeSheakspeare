@@ -42,5 +42,5 @@ $ docker run --publish 5001:8080 --detach --name pokesheakspeareContainer1 pokes
 
 Application will run on port 5001:8080
 
-you can test it going on https://localhost:5000/pokemon/ditto
+you can test it going on https://localhost:5001/pokemon/ditto
 
